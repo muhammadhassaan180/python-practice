@@ -22,7 +22,3 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [ ] Python Basics Quiz
 
 **Next modules:** Python Installation → Loops and Sequences → Dictionaries and Sets → Certification Project: User Configuration Manager.
-
-## Layout
-
-- `exercises/` — my attempts at practice exercises, numbered in learning order
