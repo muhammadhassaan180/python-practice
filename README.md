@@ -9,8 +9,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Build a Report Card Printer (workshop)
 - [x] Introduction to Python Strings (lecture)
 - [x] Build an Employee Profile Generator (workshop)
-- [ ] Numbers and Mathematical Operations (lecture) ← next
-- [ ] Build a Bill Splitter (workshop)
+- [x] Numbers and Mathematical Operations (lecture)
+- [ ] Build a Bill Splitter (workshop) ← next
 - [ ] Booleans and Conditionals (lecture)
 - [ ] Build a Movie Ticket Booking Calculator (workshop)
 - [ ] Lab: Travel Weather Planner
