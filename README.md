@@ -1,6 +1,6 @@
 # python-practice
 
-My Python learning log — working through freeCodeCamp's Scientific Computing with Python (python-v9) curriculum, one exercise at a time.
+My Python learning log — working through freeCodeCamp's Scientific Computing with Python (python-v9) curriculum.
 
 ## Progress — Python Basics (freeCodeCamp python-v9)
 
