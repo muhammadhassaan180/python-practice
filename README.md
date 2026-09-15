@@ -8,8 +8,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Understanding Variables and Data Types (lecture)
 - [x] Build a Report Card Printer (workshop)
 - [x] Introduction to Python Strings (lecture)
-- [ ] Build an Employee Profile Generator (workshop) ← next
-- [ ] Numbers and Mathematical Operations (lecture)
+- [x] Build an Employee Profile Generator (workshop)
+- [ ] Numbers and Mathematical Operations (lecture) ← next
 - [ ] Build a Bill Splitter (workshop)
 - [ ] Booleans and Conditionals (lecture)
 - [ ] Build a Movie Ticket Booking Calculator (workshop)
