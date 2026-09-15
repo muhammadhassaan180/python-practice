@@ -4,7 +4,7 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 ## Progress
 
-- [ ] Introduction to Python Strings (lectures)
+- [x] Introduction to Python Strings (lectures)
 - [ ] Learn String Manipulation by Building a Cipher
 - [ ] Next guided module
 - [ ] First certification project
