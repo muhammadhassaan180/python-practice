@@ -13,8 +13,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Build a Bill Splitter (workshop)
 - [x] Booleans and Conditionals (lecture)
 - [x] Build a Movie Ticket Booking Calculator (workshop)
-- [ ] Lab: Travel Weather Planner ← next
-- [ ] Understanding Functions and Scope (lecture)
+- [x] Lab: Travel Weather Planner
+- [ ] Understanding Functions and Scope (lecture) ← next
 - [ ] Lab: Discount Calculator
 - [ ] Build a Caesar Cipher (workshop)
 - [ ] Lab: RPG Character
