@@ -14,9 +14,9 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Booleans and Conditionals (theory)
 - [x] Build a Movie Ticket Booking Calculator (workshop)
 - [x] Lab: Travel Weather Planner
-- [ ] Understanding Functions and Scope (theory) ← next
-- [ ] Lab: Discount Calculator
-- [ ] Build a Caesar Cipher (workshop)
+- [x] Understanding Functions and Scope (theory)
+- [x] Lab: Discount Calculator
+- [ ] Build a Caesar Cipher (workshop) ← next
 - [ ] Lab: RPG Character
 - [ ] Python Basics Review
 - [ ] Python Basics Quiz
