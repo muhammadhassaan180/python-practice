@@ -12,8 +12,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Numbers and Mathematical Operations (lecture)
 - [x] Build a Bill Splitter (workshop)
 - [x] Booleans and Conditionals (lecture)
-- [ ] Build a Movie Ticket Booking Calculator (workshop) ← next
-- [ ] Lab: Travel Weather Planner
+- [x] Build a Movie Ticket Booking Calculator (workshop)
+- [ ] Lab: Travel Weather Planner ← next
 - [ ] Understanding Functions and Scope (lecture)
 - [ ] Lab: Discount Calculator
 - [ ] Build a Caesar Cipher (workshop)
