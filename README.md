@@ -11,8 +11,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Build an Employee Profile Generator (workshop)
 - [x] Numbers and Mathematical Operations (lecture)
 - [x] Build a Bill Splitter (workshop)
-- [ ] Booleans and Conditionals (lecture) ← next
-- [ ] Build a Movie Ticket Booking Calculator (workshop)
+- [x] Booleans and Conditionals (lecture)
+- [ ] Build a Movie Ticket Booking Calculator (workshop) ← next
 - [ ] Lab: Travel Weather Planner
 - [ ] Understanding Functions and Scope (lecture)
 - [ ] Lab: Discount Calculator
