@@ -18,7 +18,15 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Lab: Discount Calculator
 - [x] Build a Caesar Cipher (workshop)
 - [x] Lab: RPG Character
-- [ ] Python Basics Review ← next
-- [ ] Python Basics Quiz
+- [x] Python Basics Review
+- [x] Python Basics Quiz
 
-**Next modules:** Python Installation → Loops and Sequences → Dictionaries and Sets → Certification Project: User Configuration Manager.
+**Python Basics module complete (Sep 18, 2026).**
+
+## Progress — Python Installation (freeCodeCamp python-v9)
+
+- [ ] Python Installation (theory) ← next
+- [ ] Python Installation Review
+- [ ] Python Installation Quiz
+
+**Then:** Loops and Sequences → Dictionaries and Sets → Certification Project: User Configuration Manager.
