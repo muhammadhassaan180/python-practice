@@ -25,8 +25,20 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 ## Progress — Python Installation (freeCodeCamp python-v9)
 
-- [ ] Python Installation (theory) ← next
-- [ ] Python Installation Review
-- [ ] Python Installation Quiz
+- [x] How Do You Install, Configure and Use Python in Your Local Environment?
+- [x] How to Run Python Scripts
+- [x] How to Use the Python Interactive Shell
+- [x] Python Installation Review
+- [x] Python Installation Quiz
 
-**Then:** Loops and Sequences → Dictionaries and Sets → Certification Project: User Configuration Manager.
+**Python Installation module complete (Sep 18, 2026).**
+
+## Progress — Loops and Sequences (freeCodeCamp python-v9)
+
+- [ ] Working with Loops and Sequences (theory) ← next
+- [ ] Build a PIN Extractor (workshop)
+- [ ] Build a Number Pattern Generator (lab)
+- [ ] Loops and Sequences Review
+- [ ] Loops and Sequences Quiz
+
+**Then:** Dictionaries and Sets → Certification Project: User Configuration Manager.
