@@ -16,8 +16,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Lab: Travel Weather Planner
 - [x] Understanding Functions and Scope (theory)
 - [x] Lab: Discount Calculator
-- [ ] Build a Caesar Cipher (workshop) ← next
-- [ ] Lab: RPG Character
+- [x] Build a Caesar Cipher (workshop)
+- [ ] Lab: RPG Character ← next
 - [ ] Python Basics Review
 - [ ] Python Basics Quiz
 
