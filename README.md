@@ -17,8 +17,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Understanding Functions and Scope (theory)
 - [x] Lab: Discount Calculator
 - [x] Build a Caesar Cipher (workshop)
-- [ ] Lab: RPG Character ← next
-- [ ] Python Basics Review
+- [x] Lab: RPG Character
+- [ ] Python Basics Review ← next
 - [ ] Python Basics Quiz
 
 **Next modules:** Python Installation → Loops and Sequences → Dictionaries and Sets → Certification Project: User Configuration Manager.
