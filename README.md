@@ -37,8 +37,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 - [x] Working with Loops and Sequences (theory)
 - [x] Build a PIN Extractor (workshop)
-- [ ] Build a Number Pattern Generator (lab) ← next
-- [ ] Loops and Sequences Review
+- [x] Build a Number Pattern Generator (lab)
+- [ ] Loops and Sequences Review ← next
 - [ ] Loops and Sequences Quiz
 
 **Then:** Dictionaries and Sets → Certification Project: User Configuration Manager.
