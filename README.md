@@ -35,9 +35,9 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 ## Progress — Loops and Sequences (freeCodeCamp python-v9)
 
-- [ ] Working with Loops and Sequences (theory) ← next
-- [ ] Build a PIN Extractor (workshop)
-- [ ] Build a Number Pattern Generator (lab)
+- [x] Working with Loops and Sequences (theory)
+- [x] Build a PIN Extractor (workshop)
+- [ ] Build a Number Pattern Generator (lab) ← next
 - [ ] Loops and Sequences Review
 - [ ] Loops and Sequences Quiz
 
