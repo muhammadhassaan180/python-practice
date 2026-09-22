@@ -38,7 +38,17 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Working with Loops and Sequences (theory)
 - [x] Build a PIN Extractor (workshop)
 - [x] Build a Number Pattern Generator (lab)
-- [ ] Loops and Sequences Review ← next
-- [ ] Loops and Sequences Quiz
+- [x] Loops and Sequences Review
+- [x] Loops and Sequences Quiz
 
-**Then:** Dictionaries and Sets → Certification Project: User Configuration Manager.
+**Loops and Sequences module complete (Sep 22, 2026).**
+
+## Progress — Dictionaries and Sets (freeCodeCamp python-v9)
+
+- [ ] Working with Dictionaries and Sets (theory) ← next
+- [ ] Working with Modules (theory)
+- [ ] Build a Medical Data Validator (workshop, 44 steps)
+- [ ] Dictionaries and Sets Review
+- [ ] Dictionaries and Sets Quiz
+
+**Then:** Certification Project: User Configuration Manager.
