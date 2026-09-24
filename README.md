@@ -48,7 +48,12 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Working with Dictionaries and Sets (theory)
 - [x] Working with Modules (theory)
 - [x] Build a Medical Data Validator (workshop, 44 steps)
-- [ ] Dictionaries and Sets Review ← next
-- [ ] Dictionaries and Sets Quiz
+- [x] Dictionaries and Sets Review
+- [x] Dictionaries and Sets Quiz
 
-**Then:** Certification Project: User Configuration Manager.
+**Dictionaries and Sets module complete (Sep 24, 2026).**
+
+## Next — Certification Project: User Configuration Manager
+
+- [ ] Build it in its own repo (`user-configuration-manager`) with a README from `~/Documents/project-readme-template.md`
+- [ ] Then: Error Handling → Classes and Objects → next cert projects (Budget App, Polygon Area Calculator, Hash Table, Tower of Hanoi)
