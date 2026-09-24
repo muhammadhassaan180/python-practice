@@ -53,7 +53,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 **Dictionaries and Sets module complete (Sep 24, 2026).**
 
-## Next — Certification Project: User Configuration Manager
+## Certification Project — User Configuration Manager (COMPLETE Sep 25, 2026)
 
-- [ ] Build it in its own repo (`user-configuration-manager`) with a README from `~/Documents/project-readme-template.md`
+- [x] Built and passed all freeCodeCamp tests
+- [ ] Own repo `user-configuration-manager` pushed to GitHub
 - [ ] Then: Error Handling → Classes and Objects → next cert projects (Budget App, Polygon Area Calculator, Hash Table, Tower of Hanoi)
