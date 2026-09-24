@@ -45,10 +45,10 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 ## Progress — Dictionaries and Sets (freeCodeCamp python-v9)
 
-- [ ] Working with Dictionaries and Sets (theory) ← next
-- [ ] Working with Modules (theory)
-- [ ] Build a Medical Data Validator (workshop, 44 steps)
-- [ ] Dictionaries and Sets Review
+- [x] Working with Dictionaries and Sets (theory)
+- [x] Working with Modules (theory)
+- [x] Build a Medical Data Validator (workshop, 44 steps)
+- [ ] Dictionaries and Sets Review ← next
 - [ ] Dictionaries and Sets Quiz
 
 **Then:** Certification Project: User Configuration Manager.
