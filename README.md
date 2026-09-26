@@ -57,4 +57,26 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 - [x] Built and passed all freeCodeCamp tests
 - [x] Own repo `user-configuration-manager` pushed to GitHub
-- [ ] Then: Error Handling → Classes and Objects → next cert projects (Budget App, Polygon Area Calculator, Hash Table, Tower of Hanoi)
+
+## Progress — Error Handling (freeCodeCamp python-v9)
+
+- [x] What Are Some Common Error Messages in Python?
+- [x] What Are Some Good Debugging Techniques in Python?
+- [x] How Does Exception Handling Work?
+- [x] What Is the Raise Statement and How Does It Work?
+- [x] Debug an ISBN Validator (lab)
+- [x] Error Handling Review
+- [x] Error Handling Quiz
+
+**Error Handling module complete (Sep 27, 2026).**
+
+## Progress — Classes and Objects (freeCodeCamp python-v9)
+
+- [ ] Classes and Objects (theory) ← next
+- [ ] Build a Musical Instrument Inventory (workshop)
+- [ ] Build a Planet Class (lab)
+- [ ] Build an Email Simulator (workshop)
+- [ ] Classes and Objects Review
+- [ ] Classes and Objects Quiz
+
+**Then:** Certification Project: Budget App.
