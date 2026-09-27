@@ -74,8 +74,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 - [x] Classes and Objects (theory)
 - [x] Build a Musical Instrument Inventory (workshop)
-- [ ] Build a Planet Class (lab) ← next
-- [ ] Build an Email Simulator (workshop)
+- [x] Build a Planet Class (lab)
+- [ ] Build an Email Simulator (workshop) ← next
 - [ ] Classes and Objects Review
 - [ ] Classes and Objects Quiz
 
