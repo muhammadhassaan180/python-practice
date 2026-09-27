@@ -72,9 +72,9 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 ## Progress — Classes and Objects (freeCodeCamp python-v9)
 
-- [ ] Classes and Objects (theory) ← next
-- [ ] Build a Musical Instrument Inventory (workshop)
-- [ ] Build a Planet Class (lab)
+- [x] Classes and Objects (theory)
+- [x] Build a Musical Instrument Inventory (workshop)
+- [ ] Build a Planet Class (lab) ← next
 - [ ] Build an Email Simulator (workshop)
 - [ ] Classes and Objects Review
 - [ ] Classes and Objects Quiz
