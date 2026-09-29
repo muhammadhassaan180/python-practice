@@ -75,8 +75,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Classes and Objects (theory)
 - [x] Build a Musical Instrument Inventory (workshop)
 - [x] Build a Planet Class (lab)
-- [ ] Build an Email Simulator (workshop) ← next
-- [ ] Classes and Objects Review
+- [x] Build an Email Simulator (workshop)
+- [ ] Classes and Objects Review ← next
 - [ ] Classes and Objects Quiz
 
 **Then:** Certification Project: Budget App.
