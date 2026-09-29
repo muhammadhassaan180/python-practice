@@ -76,7 +76,12 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Build a Musical Instrument Inventory (workshop)
 - [x] Build a Planet Class (lab)
 - [x] Build an Email Simulator (workshop)
-- [ ] Classes and Objects Review ← next
-- [ ] Classes and Objects Quiz
+- [x] Classes and Objects Review
+- [x] Classes and Objects Quiz
 
-**Then:** Certification Project: Budget App.
+**Classes and Objects module complete (Sep 30, 2026).**
+
+## Next — Certification Project: Budget App
+
+- [ ] Build it in its own repo (`budget-app`) with a README from `~/Documents/project-readme-template.md`
+- [ ] Then: Object-Oriented Programming module → Polygon Area Calculator → Hash Table → Tower of Hanoi → certification exam
