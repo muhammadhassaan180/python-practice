@@ -84,5 +84,5 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 ## Certification Project — Budget App (COMPLETE Oct 1, 2026)
 
 - [x] Built and passed all freeCodeCamp tests
-- [ ] Own repo `budget-app` pushed to GitHub
+- [x] Own repo `budget_app` pushed to GitHub
 - [ ] Then: Object-Oriented Programming module → Polygon Area Calculator → Hash Table → Tower of Hanoi → certification exam
