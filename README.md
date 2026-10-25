@@ -89,7 +89,8 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 ## Progress — Object-Oriented Programming (in progress)
 
 - [x] Build a Salary Tracker (workshop)
+- [x] Build a Game Character Stats Tracker (lab)
 
-**Paused during the semester; one workshop complete.**
+**Paused during the semester; workshop and lab complete.**
 
 - [ ] Remaining certification projects: Polygon Area Calculator → Hash Table → Tower of Hanoi → certification exam
