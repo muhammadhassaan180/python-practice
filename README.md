@@ -16,7 +16,7 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Build a Movie Ticket Booking Calculator (workshop)
 - [x] Lab: Travel Weather Planner
 - [x] Understanding Functions and Scope (theory)
-- [ ] Build a Kitchen Inventory Tracker (workshop)
+- [x] Build a Kitchen Inventory Tracker (workshop)
 - [x] Lab: Discount Calculator
 - [x] Build a Caesar Cipher (workshop)
 - [x] Lab: RPG Character
@@ -27,7 +27,7 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 *Build an Employee Profile Validator was added to the curriculum later and completed Nov 2, 2026.*
 
-*Build a Kitchen Inventory Tracker was also added later and is not completed yet.*
+*Build a Kitchen Inventory Tracker was also added later and completed Nov 3, 2026.*
 
 ## Progress — Python Installation (freeCodeCamp python-v9)
 
