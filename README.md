@@ -27,7 +27,7 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 *Build an Employee Profile Validator was added to the curriculum later and completed Nov 2, 2026.*
 
-*Build a Kitchen Inventory Tracker was also added later and is not completed yet. This tracker keeps the original curriculum names; fCC later renamed the Discount Calculator lab to Build an Apply Discount Function.*
+*Build a Kitchen Inventory Tracker was also added later and is not completed yet.*
 
 ## Progress — Python Installation (freeCodeCamp python-v9)
 
