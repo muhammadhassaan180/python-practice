@@ -9,19 +9,25 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Build a Report Card Printer (workshop)
 - [x] Introduction to Python Strings (theory)
 - [x] Build an Employee Profile Generator (workshop)
+- [x] Build an Employee Profile Validator (workshop)
 - [x] Numbers and Mathematical Operations (theory)
 - [x] Build a Bill Splitter (workshop)
 - [x] Booleans and Conditionals (theory)
 - [x] Build a Movie Ticket Booking Calculator (workshop)
 - [x] Lab: Travel Weather Planner
 - [x] Understanding Functions and Scope (theory)
-- [x] Lab: Discount Calculator
+- [ ] Build a Kitchen Inventory Tracker (workshop)
+- [x] Build an Apply Discount Function (lab)
 - [x] Build a Caesar Cipher (workshop)
 - [x] Lab: RPG Character
 - [x] Python Basics Review
 - [x] Python Basics Quiz
 
 **Python Basics module complete (Sep 18, 2026).**
+
+*Build an Employee Profile Validator was added to the curriculum later and completed Nov 2, 2026.*
+
+*Build a Kitchen Inventory Tracker was also added later and is not completed yet. The old Discount Calculator lab is now called Build an Apply Discount Function.*
 
 ## Progress — Python Installation (freeCodeCamp python-v9)
 
