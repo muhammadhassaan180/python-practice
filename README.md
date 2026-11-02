@@ -17,7 +17,7 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 - [x] Lab: Travel Weather Planner
 - [x] Understanding Functions and Scope (theory)
 - [ ] Build a Kitchen Inventory Tracker (workshop)
-- [x] Build an Apply Discount Function (lab)
+- [x] Lab: Discount Calculator
 - [x] Build a Caesar Cipher (workshop)
 - [x] Lab: RPG Character
 - [x] Python Basics Review
@@ -27,7 +27,7 @@ My Python learning log — working through freeCodeCamp's Scientific Computing w
 
 *Build an Employee Profile Validator was added to the curriculum later and completed Nov 2, 2026.*
 
-*Build a Kitchen Inventory Tracker was also added later and is not completed yet. The old Discount Calculator lab is now called Build an Apply Discount Function.*
+*Build a Kitchen Inventory Tracker was also added later and is not completed yet. This tracker keeps the original curriculum names; fCC later renamed the Discount Calculator lab to Build an Apply Discount Function.*
 
 ## Progress — Python Installation (freeCodeCamp python-v9)
 
